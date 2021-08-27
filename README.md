@@ -3,3 +3,4 @@ Implementation features:
 - code generation and compilation of JavaBeans classes has been removed, the Java Dynamic Proxy API is used instead.
 - Implemented a new property panel with GUI Swing.
 - Replaced mechanisms for reading / saving files.
+- Added IndexedPropertyEditor.
